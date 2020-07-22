@@ -197,7 +197,7 @@ header {
   width: 100%;
   min-height: auto;
   overflow-y: hidden;
-  background: url("/img/worship_top.JPG"), #FFFFFF;
+  background: url("../img/worship_top.jpg"), #FFFFFF;
   background-position: center;
   background-size: cover;
   color: white;  
