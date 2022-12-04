@@ -27,4 +27,5 @@ uBlock Origin wird als **Addon** für den Web-Browser installiert. Folgende Web-
 
 <br>
 
-    Diskussionsfragen: Ist Werbung blockieren Diebstahl? (wie das immer wieder von im Internet werbetreibenden Unternehmen gesagt wird).
+> **Diskussionsfragen:** Ist Werbung blockieren Diebstahl? (wie das immer wieder von 
+> im Internet werbetreibenden Unternehmen gesagt wird).

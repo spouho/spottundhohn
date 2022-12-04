@@ -1,6 +1,6 @@
 # **Station 5: Spielplatz und Literatur**
 
-Interessante Tools zur Visualisierung von Tracking im Internet:
+###Interessante Tools zur Visualisierung von Tracking im Internet:
 
 **Blacklight:** einfacher Webseiten-Privatsphäre-Inspektor
 
@@ -17,10 +17,11 @@ Interessante Tools zur Visualisierung von Tracking im Internet:
 **Webbkoll:** sehr umfangreicher Webseiten-Privatsphäre-Inspektor
 
 [https://webbkoll.dataskydd.net/de](https://webbkoll.dataskydd.net/de)
+<br>
 
 ---
 
-Zum Ausprobieren: Tor. Der wohl sicherste, aber auch langsamste Browser
+###Zum Ausprobieren: Tor. Der wohl sicherste, aber auch langsamste Browser
 
 [https://www.torproject.org/](https://www.torproject.org/)
 
@@ -28,9 +29,11 @@ Dazu passt: **A beginner's guide to Tor - How to navigate the underground intern
 
 [https://www.digitaltrends.com/computing/a-beginners-guide-to-tor-how-to-navigate-through-the-underground-internet/](https://www.digitaltrends.com/computing/a-beginners-guide-to-tor-how-to-navigate-through-the-underground-internet/)
 
+<br>
+
 ---
 
-Literatur
+###Literatur
 
 **Online-Ressourcen: Ratgeber für alle**
 
@@ -54,4 +57,4 @@ Alles von Wolfie Christl. [https://wolfie.crackedlabs.org/](https://wolfie.crack
 - Philipp Staab - Digitaler Kapitalismus
 
 ![](stationenmedia/buch1.png)
-![](stationenmedia/buch1.png)
+![](stationenmedia/buch2.png)

@@ -15,7 +15,7 @@ uMatrix zerstört das Internet, wie Sie es sich gewohnt sind. Verwenden Sie also
 
 Installieren Sie zuerst Firefox oder wenn Sie Firefox privat nutzen, Firefox Nightly:
 
-| ![Firefox](https://www.mozilla.org/de/firefox/new/) | ![Firefox Nightly](https://www.mozilla.org/de/firefox/channel/desktop/) |
+| [Firefox](https://www.mozilla.org/de/firefox/new/) | [Firefox Nightly](https://www.mozilla.org/de/firefox/channel/desktop/) |
 
 
 1. Öffnen Sie Firefox oder Firefox Nightly
