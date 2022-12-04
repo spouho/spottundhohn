@@ -57,5 +57,5 @@ Alles von Wolfie Christl. [https://wolfie.crackedlabs.org/](https://wolfie.crack
 - Philipp Staab - Digitaler Kapitalismus
 
 ![](stationenmedia/buch1.png)
-![](stationenmedia/buch2.png)
-<img src="buch2.jpg" width="200"/>
+
+<img src="stationenmedia/buch2.jpg" width="200"/>
