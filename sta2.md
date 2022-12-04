@@ -9,7 +9,7 @@ Ich empfehle Ihnen, den Blocker uBlock Origin zu verwenden. Ublock Origin ist ni
 
 uBlock Origin wird als **Addon** für den Web-Browser installiert. Folgende Web-Browser werden unterstützt:
 
-| [Chrome](https://www.google.com/intl/de/chrome/) | ![Edge](https://www.microsoft.com/de-de/edge/home?form=MA13FJ) | ![Firefox](https://www.mozilla.org/de/firefox/new/) | ![Opera](https://www.opera.com/de) |
+| [Chrome](https://www.google.com/intl/de/chrome/) | [Edge](https://www.microsoft.com/de-de/edge/home?form=MA13FJ) | [Firefox](https://www.mozilla.org/de/firefox/new/) | [Opera](https://www.opera.com/de) |
 
 <br>
 
