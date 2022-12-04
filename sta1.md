@@ -6,12 +6,14 @@ Jede Website kann viel über die Besuchenden erfahren, in dem nur schon die stan
 
 1. Besuchen Sie die Seite und analysieren Sie den Output.
 
-1. Ändern Sie Parameter und vergleichen Sie:
+2. Ändern Sie Parameter und vergleichen Sie:
 
-  1. Besuchen Sie die Seite statt mit WLAN via mobile Daten von Ihrem Smartphone oder aus einem anderen WLAN.
+  -. Besuchen Sie die Seite statt mit WLAN via mobile Daten von Ihrem Smartphone oder aus einem anderen WLAN.
 
-  1. Besuchen Sie die Seite mit einem anderen Browser.
+  -. Besuchen Sie die Seite mit einem anderen Browser.
 
-  1. Falls Sie einen haben: Besuchen Sie die Seite via VPN.
+  -. Falls Sie einen haben: Besuchen Sie die Seite via VPN.
 
-Diskussionsfragen: Ist es für Sie ok, dass Sie diese Daten ungefragt weitergeben? Gibt es Datenpunkte, deren Weitergabe Sie als missbräuchlich empfinden? Gibt es solche, deren Weitergabe Sie sinnvoll finden?
+<br>
+
+    Diskussionsfragen: Ist es für Sie ok, dass Sie diese Daten ungefragt weitergeben? Gibt es Datenpunkte, deren Weitergabe Sie als missbräuchlich empfinden? Gibt es solche, deren Weitergabe Sie sinnvoll finden?

@@ -6,13 +6,19 @@ Interessante Tools zur Visualisierung von Tracking im Internet:
 
 [https://themarkup.org/blacklight](https://themarkup.org/blacklight)
 
+<br>
+
 **Trackography:** Tracking geographisch visualisiert
 
 [https://trackography.org/](https://trackography.org/)
 
+<br>
+
 **Webbkoll:** sehr umfangreicher Webseiten-Privatsphäre-Inspektor
 
 [https://webbkoll.dataskydd.net/de](https://webbkoll.dataskydd.net/de)
+
+---
 
 Zum Ausprobieren: Tor. Der wohl sicherste, aber auch langsamste Browser
 
@@ -22,7 +28,9 @@ Dazu passt: **A beginner's guide to Tor - How to navigate the underground intern
 
 [https://www.digitaltrends.com/computing/a-beginners-guide-to-tor-how-to-navigate-through-the-underground-internet/](https://www.digitaltrends.com/computing/a-beginners-guide-to-tor-how-to-navigate-through-the-underground-internet/)
 
-![](RackMultipart20221204-1-4a62gh_html_eee376eac551a30.png)Literatur
+---
+
+Literatur
 
 **Online-Ressourcen: Ratgeber für alle**
 
@@ -30,13 +38,20 @@ Dazu passt: **A beginner's guide to Tor - How to navigate the underground intern
 
 [https://digitalcourage.de/digitale-selbstverteidigung](https://digitalcourage.de/digitale-selbstverteidigung)
 
+<br>
+
 **Wissenschaftliche Studien (technisch)**
 
 Alles von Wolfie Christl. [https://wolfie.crackedlabs.org/](https://wolfie.crackedlabs.org/)
 
-![](RackMultipart20221204-1-4a62gh_html_4cceaf32c66b1d8b.jpg)Bujlow et al. (2017). A Survey on Web Tracking: Mechanisms, Implications, and Defenses.
+[Bujlow et al. (2017). A Survey on Web Tracking: Mechanisms, Implications, and Defenses.](https://upcommons.upc.edu/bitstream/handle/2117/108437/web_tracking_survey-postprint.pdf)
+
+<br>
 
 **Buch-Tipps**
 
 - Shoshana Zuboff - Das Zeitalter des Überwachungskapitalismus
 - Philipp Staab - Digitaler Kapitalismus
+
+![](stationenmedia/buch1.png)
+![](stationenmedia/buch1.png)
