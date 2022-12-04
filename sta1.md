@@ -8,11 +8,11 @@ Jede Website kann viel über die Besuchenden erfahren, in dem nur schon die stan
 
 2. Ändern Sie Parameter und vergleichen Sie:
 
-  - Besuchen Sie die Seite statt mit WLAN via mobile Daten von Ihrem Smartphone oder aus einem anderen WLAN.
+    - Besuchen Sie die Seite statt mit WLAN via mobile Daten von Ihrem Smartphone oder aus einem anderen WLAN.
 
-  - Besuchen Sie die Seite mit einem anderen Browser.
+    - Besuchen Sie die Seite mit einem anderen Browser.
 
-  - Falls Sie einen haben: Besuchen Sie die Seite via VPN.
+    - Falls Sie einen haben: Besuchen Sie die Seite via VPN.
 
 <br>
 
