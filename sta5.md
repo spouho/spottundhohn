@@ -1,6 +1,6 @@
 # **Station 5: Spielplatz und Literatur**
 
-###Interessante Tools zur Visualisierung von Tracking im Internet:
+### Interessante Tools zur Visualisierung von Tracking im Internet:
 
 **Blacklight:** einfacher Webseiten-Privatsphäre-Inspektor
 
@@ -21,7 +21,7 @@
 
 ---
 
-###Zum Ausprobieren: Tor. Der wohl sicherste, aber auch langsamste Browser
+### Zum Ausprobieren: Tor. Der wohl sicherste, aber auch langsamste Browser
 
 [https://www.torproject.org/](https://www.torproject.org/)
 
@@ -33,7 +33,7 @@ Dazu passt: **A beginner's guide to Tor - How to navigate the underground intern
 
 ---
 
-###Literatur
+### Literatur
 
 **Online-Ressourcen: Ratgeber für alle**
 
