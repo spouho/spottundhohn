@@ -56,6 +56,4 @@ Alles von Wolfie Christl. [https://wolfie.crackedlabs.org/](https://wolfie.crack
 - Shoshana Zuboff - Das Zeitalter des Überwachungskapitalismus
 - Philipp Staab - Digitaler Kapitalismus
 
-![](stationenmedia/buch1.png)
-
-<img src="stationenmedia/buch2.jpg" width="200"/>
+![](stationenmedia/buch1.png) <img src="stationenmedia/buch2.jpg" width="150"/>
