@@ -58,3 +58,4 @@ Alles von Wolfie Christl. [https://wolfie.crackedlabs.org/](https://wolfie.crack
 
 ![](stationenmedia/buch1.png)
 ![](stationenmedia/buch2.png)
+<img src="buch2.jpg" width="200"/>
